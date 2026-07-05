@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751570572 source:c:\users\play store\desktop\foracm\arrayssum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
