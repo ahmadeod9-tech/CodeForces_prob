@@ -1,0 +1,4 @@
+﻿  newYearGarland.cpp
+C:\Users\LOQ\Desktop\forTest\newYearGarland\newYearGarland\newYearGarland.cpp(20,10): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\LOQ\Desktop\forTest\newYearGarland\newYearGarland\newYearGarland.cpp(20,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  newYearGarland.vcxproj -> C:\Users\LOQ\Desktop\forTest\newYearGarland\x64\Debug\newYearGarland.exe
